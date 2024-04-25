@@ -1,1 +1,2 @@
 # New-York-City-Collisions-Dashboard
+This is a mini project in the second week of independent study activities at myedusolve. We were given the task of analyzing a data set and creating a visualization dashboard. We chose the New York City Collisions dataset because we were interested in knowing and analyzing the rate of vehicle accidents on the highway. We carry out the analysis process to visualization using spreadsheets.
